@@ -1,4 +1,4 @@
-npm <div align="center">
+<div align="center">
 
 <h1 style="color:#ff79c6" > Iroppoi Girls </h1>
   <br>
